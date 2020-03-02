@@ -38,6 +38,8 @@ If issue start date is on holliday or on weekend then plugin will find the next 
 
 If you do not want the plugin calculate the start date and due date you can unckeck the option "Calculate issue end date" in the configuration page.
 
+![](https://redmine.org/attachments/download/18357)
+
 ## Installation notes
 
 **Attention** This plugin extends core functions
