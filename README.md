@@ -8,6 +8,8 @@
 
 **Plugin for Redmine wich render a project gantt, adding a control date in order to visualize the expected ratio. Also calculate automatically issue due date.**
 
+![](https://redmine.org/attachments/download/18357)
+
 ## Gantt:
 
 In order to see the plugin features, projets and issues must have a start date, a due date and a estimated time configured.
@@ -37,8 +39,6 @@ In the previuos example, if custom field "asignacion" at issue level is 16hs, th
 If issue start date is on holliday or on weekend then plugin will find the next working day.
 
 If you do not want the plugin calculate the start date and due date you can unckeck the option "Calculate issue end date" in the configuration page.
-
-![](https://redmine.org/attachments/download/18357)
 
 ## Installation notes
 
